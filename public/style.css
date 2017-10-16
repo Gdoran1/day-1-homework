@@ -1,0 +1,50 @@
+/** {
+  border: 1px solid rgba(0, 0, 0, 0.3);
+}*/
+
+/*reveals boxes for better positioning*/
+
+
+
+html{
+  color: #f88703;
+  background-color: teal;
+  font-family: Papyrus, Arial, sans-serif;
+  font-style: italic;
+  font-weight: bold;
+
+}
+nav{
+  display: block;
+  background-color: #f88703;
+  width: 880px;
+  margin: 0 auto;
+  padding: 10px;
+  border-radius: 45px;
+  text-align: left;
+}
+nav ul {
+  list-style-type: none;
+  padding-right: : 10px;
+}
+nav ul li {
+  display: inline;
+  padding-right: 10px;
+}
+nav ul li a {
+  color: teal;
+  text-decoration: none;
+}
+nav ul li a:hover {
+  color: #fff;
+  text-decoration: none;
+}
+/*add image */
+/*< image(:src => /photos/images/original/000/521/406/f08.png) />*/
+
+
+
+/*body {
+  background-color:  teal
+  ;
+}*/
